@@ -23,6 +23,6 @@ Set Start:
 >Press the `S` key and then `left click` to add a starting block
 
 Set End:
->Press the `E` key and then `left click` to add a ending block
+>Press the `E` key and then `left click` to add an ending block
 
 ![DijkstraGIF](https://github.com/Ricardo-Straub/Dijksra-Visualization/assets/108030615/66fa7e50-05b6-4289-ae78-573c411a6c17)
