@@ -5,7 +5,7 @@ This is a Pathfinding visualization using the Dijkstra or A-Star Algorithm. Java
 >Creates randomly generated borders
 
 **Retry:**
->Keeps Borders, Start and End Point but lets you rerung the algorithm chosen
+>Keeps borders, start and end points, but lets you rerun the algorithm chosen
 
 **Reset:**
 >Resets the entire coordinate system
@@ -14,7 +14,7 @@ This is a Pathfinding visualization using the Dijkstra or A-Star Algorithm. Java
 >Start the pathfinding algorithm
 
 **Radio Buttons (Dijkstra, A\*):**
->Decide wether you want to use Dijkstra or A-Star algorithm
+>Decide wether you want to use the Dijkstra or A-Star algorithm
 
 **Manually add Borders:**
 >Borders are placed by holding `Shift` and dragging the mouse over the coordinate system. Stop adding borders by letting go of `Shift`
