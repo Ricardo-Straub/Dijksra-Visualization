@@ -1,5 +1,5 @@
 # Dijksra-Visualization
-This is a Pathfinding visualization using Dijkstra and A-Start Algorithm. Java Swing is used for the visualization.
+This is a Pathfinding visualization using the Dijkstra or A-Star Algorithm. Java Swing is used for the visualization.
 
 **Create Maze:** 
 >Creates randomly generated borders
